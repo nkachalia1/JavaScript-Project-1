@@ -7,4 +7,5 @@ This will be performed in 3 steps:
 1) the user will input the stock ticker name.
 2) the stock's daily price will be pulled from the above API.
 3) the price over the last year will be displayed on a line graph using D3.
-4) the user can hover over the graph to see daily stock prices.
+4) the minimum and maximum stock price over the course of the year will be displayed.
+5) the user will have the option to view the daily stock price when hovering over the line graph.
