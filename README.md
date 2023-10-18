@@ -1,6 +1,7 @@
 # JavaScript-Project-1
 
 This project entails utilizing the AlphaVantage API: https://www.alphavantage.co/ or StockData: https://www.stockdata.org/documentation
+
 The main objective is to create a visualization of a stock's price over the course of one year.
 
 This will be performed in 3 steps:
