@@ -1,4 +1,4 @@
-# JavaScript-Project-1: Stock App
+<h1>Stock App</h1>
 
 The main objective of this project is to create a visualization of a stock's price over the course of one year. The project entails utilizing the AlphaVantage API: https://www.alphavantage.co/, the StockData API: https://www.stockdata.org/documentation, and D3.
 
