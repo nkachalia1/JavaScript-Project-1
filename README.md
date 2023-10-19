@@ -10,5 +10,5 @@ In the Stock App, users will be able to:
 
 In addition, this project will include:
 
-1) a link to the line graph of any previously searched stock tickers.
+1) a link to the line graph of the most recently searched stock ticker.
 2) README.md file.
