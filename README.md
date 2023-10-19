@@ -13,5 +13,6 @@ In addition, this project will include:
 1) a link to the line graph of the most recently searched stock ticker.
 2) README.md file.
 
-![plot]("C:\Users\Neel\Downloads\JavaScript-Project-1---Wireframe-cc-Premium16976755928141697675592\Homepage.png")
-![plot]("C:\Users\Neel\Downloads\JavaScript-Project-1---Wireframe-cc-Premium16976755928141697675592\Homepage.png")
+![plot](./wireframe.png)
+![plot](path-to-wireframe-picture)
+![Homepage](https://github.com/nkachalia1/JavaScript-Project-1/assets/26831378/7e39f560-2470-4ec4-a523-3eaeb8de26f2)
