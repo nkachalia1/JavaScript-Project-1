@@ -1,12 +1,14 @@
-# JavaScript-Project-1
+# JavaScript-Project-1: Stock App
 
-This project entails utilizing the AlphaVantage API: https://www.alphavantage.co/ or StockData: https://www.stockdata.org/documentation
+The main objective of this project is to create a visualization of a stock's price over the course of one year. The project entails utilizing the AlphaVantage API: https://www.alphavantage.co/ and StockData: https://www.stockdata.org/documentation.
 
-The main objective is to create a visualization of a stock's price over the course of one year.
+In the Stock App, users will be able to:
+1) input a publicly traded U.S. stock ticker name.
+2) view the daily closing price of that stock on a line graph over the last 52-week period.
+3) view the minimum and maximum price, and see what the maximum profit could have been in the 52-week range.
+4) hover over the line graph to view the daily stock price.
 
-This will be performed in the following steps:
-1) the user will input the stock ticker name.
-2) the stock's daily price will be pulled from the above API.
-3) the price over the last year will be displayed on a line graph using D3.
-4) the minimum and maximum stock price over the course of the year will be displayed.
-5) the user will have the option to view the daily stock price when hovering over the line graph.
+In addition, this project will include:
+
+1) a link to the line graph of any previously searched stock tickers.
+2) README.md file.
