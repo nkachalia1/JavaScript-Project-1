@@ -14,4 +14,5 @@ In addition, this project will include:
 2) README.md file.
 
 <h1>Wireframe</h1>
+
 ![Homepage](https://github.com/nkachalia1/JavaScript-Project-1/assets/26831378/7e39f560-2470-4ec4-a523-3eaeb8de26f2)
