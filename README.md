@@ -5,7 +5,7 @@ The main objective of this project is to create a visualization of a stock's pri
 In the Stock App, users will be able to:
 1) input a publicly traded U.S. stock ticker name
 2) view the daily closing price of that stock on a line graph over the last 52-week period
-3) view the minimum and maximum price, and see what the maximum profit could have been in the 52-week range
+3) view the minimum price, maximum price, and the maximum possible profit in the 52-week range
 4) hover over the line graph to view the daily stock price
 
 In addition, this project will include:
