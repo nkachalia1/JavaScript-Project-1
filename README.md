@@ -18,6 +18,7 @@ In addition, this project will include:
 ![Homepage](https://github.com/nkachalia1/JavaScript-Project-1/assets/26831378/7e39f560-2470-4ec4-a523-3eaeb8de26f2)
 
 <h1>Technologies and APIs</h1>
+
 This project will implement:
 1) AlphaVantage API to pull stock data
 2) D3 and Canvas to render the price graph
